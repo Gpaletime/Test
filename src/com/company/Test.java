@@ -13,7 +13,7 @@ public class Test extends AttractionsLand {
     public static void main() {
 
         int choix;
-
+//test vvvvvvvvvvv
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Création de Passe:\n1/Passe Zone\n2/Passe Tickets");
